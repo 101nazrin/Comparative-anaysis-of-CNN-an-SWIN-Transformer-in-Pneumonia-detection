@@ -1,0 +1,1 @@
+This is the code  comparing the performance of basic CNN model and SWIN Transformer with a single stage in extracting the features from Chest Xrays and understanding how well different supervised classifications algorithms like SVM ,Random forest,Softmax and adaboost classify chest Xray into NORMAL or PNEUMONIA.
